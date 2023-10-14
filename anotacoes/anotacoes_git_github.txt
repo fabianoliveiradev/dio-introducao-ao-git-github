@@ -1,0 +1,52 @@
+# DIO | Resumos Git e GitHub
+
+O que é **GIT**?
+É um sistema de controle de versão distribuído.
+
+### Principais comandos
+1. git init - inicializa um repositório Git dentro de um diretório do sistema.
+
+⚙ git init
+
+2. git clone - cria uma cópia de um repositório remoto em um diretório local (máquina).
+
+⚙ git clone <-caminho-do-repositorio->
+
+3. git status - verifica o status de um repositório git.
+
+⚙ git status
+
+4. git add - adiciona arquivos ao pacote de alterações a serem feitas
+
+git add <arquivo_1>
+
+5. git commit - cria uma nova versão do projeto a partir de um pacote de alterações.
+
+⚙ git commit -m "descrição do commit"
+
+6. git log - exibe o histórico de alterações do projeto.
+
+⚙ git log
+
+7. git branch - cria novos ramos de desenvolvimento.
+
+⚙ git branch <-nome-da-branch->
+
+8. git checkout - navega entre as versões do projeto.
+
+⚙ git checkout <-hash do commit->
+
+⚙ git checkout <-nome da branch->
+
+9. git diff - exibe as alterações feitas entre commits.
+
+⚙ git diff <-hash do commit anterior->
+
+O que é **GITHUB**?
+
+É uma plataforma para gerenciar seu código e criar um ambiente colaborativo entre os desenvolvedores.
+
+## Saiba mais
+- [Documentação Git](https://git-scm.com/doc)
+- [Assistente para a criação do redme do projeto](https://readme.so)
+- [Guia do Markdown](https://www.markdownguide.org/basic-syntax)
